@@ -1,1 +1,6 @@
 Crash_Data/Motor_Vehicle_Collisions_-_Crashes.csv
+Crash_Data/cleaned_data.csv
+notebook/cleaned_data.csv
+venv/
+__pycache__/
+*.pyc
